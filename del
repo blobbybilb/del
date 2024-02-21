@@ -21,7 +21,7 @@ end
 
 if files.any?
   cmd = ['osascript', '-e', "tell app \"Finder\" to move {#{files.join(', ')}} to trash"]
-  puts cmd.join(' ')
+  # puts cmd.join(' ')
   r = system(*cmd, out: File::NULL)
   exit(r && files.size == ARGV.size ? 0 : 1)
 end
