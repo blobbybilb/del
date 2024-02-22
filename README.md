@@ -8,3 +8,8 @@ I don't like spending time configuring things unless it's really necessary. This
 - a script to move files into macOS Trash
 - uses Ruby because it's pre-installed on macOS (Sonoma)
 - `sudo curl https://raw.githubusercontent.com/blobbybilb/not-configs/main/del -o /usr/local/bin/del; sudo chmod +x /usr/local/bin/del`
+
+---
+
+### Other Stuff
+
