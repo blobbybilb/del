@@ -1,6 +1,8 @@
-# del
-rm on mac is scary
+# Not Really Config Configs
 
-Ruby script to move files to macOS Trash based on https://apple.stackexchange.com/a/162354
+I don't like spending time configuring things unless it's really necessary. This is a collection of scripts, configs, etc. that I have made as needed.
 
-(uses Ruby because it's pre-installed on macOS (Sonoma), unlike Python)
+[**del**](https://github.com/blobbybilb/not-configs/blob/main/del) 
+- rm on mac is scary
+- a script to move files into trash
+- uses Ruby because it's pre-installed on macOS (Sonoma)
