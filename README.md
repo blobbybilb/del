@@ -14,7 +14,7 @@ I don't like spending time configuring things unless it's really necessary. This
 - before using, set a keyboard shortcut for export note to `cmd+shift+e` (from System Settings)
 - the line `mouse.position = (975, 23)` might need to be tweaked (it moves the mouse to the Trash button if I remember correctly) (that and line below it can be removed to stop deleting)
 - before starting the script, click on the first note you want to export in gallery view
-- (note to self)[https://github.com/blobbybilb/xyz-old/blob/main/apple-notes-export-script/apple-notes-export%20(made%20on%20or%20around%209.Jul.2023).py] (ignore, it's a private repo anyway)
+- [note to self](https://github.com/blobbybilb/xyz-old/blob/main/apple-notes-export-script/apple-notes-export%20(made%20on%20or%20around%209.Jul.2023).py) (ignore, it's a private repo anyway)
 
 ---
 
