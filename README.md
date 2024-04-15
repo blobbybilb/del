@@ -16,6 +16,10 @@ I don't like spending time configuring things unless it's really necessary. This
 - before starting the script, click on the first note you want to export in gallery view
 - [note to self](https://github.com/blobbybilb/xyz-old/blob/main/apple-notes-export-script/apple-notes-export%20(made%20on%20or%20around%209.Jul.2023).py) (ignore, it's a private repo anyway)
 
+#### [`$`](https://github.com/blobbybilb/not-configs/blob/main/del)
+- when copying commands sometimes there's a `$` at the start, this one-line script ignores that (in simple cases) (does `echo "$@"`) (I might make it a bit more sophisticated later)
+- `sudo curl https://raw.githubusercontent.com/blobbybilb/not-configs/main/$ -o /usr/local/bin/del; sudo chmod +x /usr/local/bin/$`
+
 ---
 
 ### Other Stuff
