@@ -17,7 +17,7 @@ I don't like spending time configuring things unless it's really necessary. This
 - [note to self](https://github.com/blobbybilb/xyz-old/blob/main/apple-notes-export-script/apple-notes-export%20(made%20on%20or%20around%209.Jul.2023).py) (ignore, it's a private repo anyway)
 
 #### [`$`](https://github.com/blobbybilb/not-configs/blob/main/del)
-- when copying commands sometimes there's a `$` at the start, this one-line script ignores that (in simple cases) (does `echo "$@"`) (I might make it a bit more sophisticated later) (doesn't work on all shells but works on sh, bash, zsh, etc.) (not fish)
+- when copying commands sometimes there's a `$` at the start, this one-line script ignores that (in simple cases) (does `echo "$@"`) (I might make it a bit more sophisticated later) (doesn't work on all shells but works on sh, bash, zsh, etc. (not fish))
 - `sudo curl https://raw.githubusercontent.com/blobbybilb/not-configs/main/\$ -o /usr/local/bin/\$; sudo chmod +x /usr/local/bin/\$`
 
 ---
