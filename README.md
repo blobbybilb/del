@@ -18,7 +18,7 @@ I don't like spending time configuring things unless it's really necessary. This
 
 #### [`$`](https://github.com/blobbybilb/not-configs/blob/main/del)
 - when copying commands sometimes there's a `$` at the start, this one-line script ignores that (in simple cases) (does `echo "$@"`) (I might make it a bit more sophisticated later)
-- `sudo curl https://raw.githubusercontent.com/blobbybilb/not-configs/main/$ -o /usr/local/bin/del; sudo chmod +x /usr/local/bin/$`
+- `sudo curl https://raw.githubusercontent.com/blobbybilb/not-configs/main/\$ -o /usr/local/bin/\$; sudo chmod +x /usr/local/bin/\$`
 
 ---
 
