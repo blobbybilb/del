@@ -20,6 +20,9 @@ I don't like spending time configuring things unless it's really necessary. This
 - when copying commands sometimes there's a `$` at the start, this one-line script ignores that (in simple cases) (does `echo "$@"`) (I might make it a bit more sophisticated later) (doesn't work on all shells but works on sh, bash, zsh, etc. (not fish))
 - `sudo curl https://raw.githubusercontent.com/blobbybilb/not-configs/main/\$ -o /usr/local/bin/\$; sudo chmod +x /usr/local/bin/\$`
 
+#### [`PDF to Image`](https://github.com/blobbybilb/not-configs/blob/main/PDF%20to%20Images.shortcut)
+- Apple Shortcuts shortcut that converts each page of a PDF to PNG images
+
 ---
 
 ### Other Stuff
