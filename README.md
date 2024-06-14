@@ -23,6 +23,9 @@ I don't like spending time configuring things unless it's really necessary. This
 #### [`PDF to Image`](https://github.com/blobbybilb/not-configs/blob/main/PDF%20to%20Images.shortcut)
 - Apple Shortcuts shortcut that converts each page of a PDF to PNG images
 
+#### [`PDF Reorder`]
+- Reorders a stack of pages scanned from one side then another
+
 ---
 
 ### Other Stuff
