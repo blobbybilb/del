@@ -1,3 +1,5 @@
+# Note: AI generated code:
+
 # # #!/bin/sh
 
 # # # Check if the correct number of arguments are provided
